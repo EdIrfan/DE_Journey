@@ -1,4 +1,4 @@
-## DE_Journey
+# DE_Journey
 
 Creating this space to track sprints
 Sprint 1:
