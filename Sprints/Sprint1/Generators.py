@@ -7,7 +7,7 @@ def fib():
 
 # testing code
 import types
-if type(fib()) == types.GeneratorType:
+if isinstance(fib(), types.GeneratorType):
     print("Good, The fib function is a generator.")
 
     counter = 0
