@@ -317,7 +317,7 @@ def main():
     """
     Main orchestrator. Runs all validation steps sequentially.
     """
-    logger.info("\n" + "=" * 70)
+    logger.info("\n" + "=" * 114)
     logger.info("DATA VALIDATION PIPELINE STARTED")
     logger.info("=" * 70 + "\n")
 
