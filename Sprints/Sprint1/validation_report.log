@@ -1,0 +1,88 @@
+2025-12-01 20:44:44 | __main__ | INFO     | 
+==================================================================================================================
+2025-12-01 20:44:44 | __main__ | INFO     | DATA VALIDATION PIPELINE STARTED
+2025-12-01 20:44:44 | __main__ | INFO     | ======================================================================
+
+2025-12-01 20:44:44 | __main__ | INFO     | Loading CSV: 'd:\Linda Chingbawi\Sprints\Sprint1\test_data.csv'
+2025-12-01 20:44:44 | __main__ | INFO     | File loaded successfully
+2025-12-01 20:44:44 | __main__ | INFO     |   Shape: 7 rows x 11 columns
+
+2025-12-01 20:44:44 | __main__ | INFO     | ======================================================================
+2025-12-01 20:44:44 | __main__ | INFO     | STEP 1: SCHEMA VALIDATION
+2025-12-01 20:44:44 | __main__ | INFO     | ======================================================================
+2025-12-01 20:44:44 | __main__ | INFO     |   [OK] All expected columns are present
+2025-12-01 20:44:44 | __main__ | INFO     |   [OK] 'Sprint' -> object (correct)
+2025-12-01 20:44:44 | __main__ | INFO     |   [OK] 'Sprint_Name' -> object (correct)
+2025-12-01 20:44:44 | __main__ | INFO     |   [OK] 'Phase' -> object (correct)
+2025-12-01 20:44:44 | __main__ | INFO     |   [OK] 'Story_ID' -> object (correct)
+2025-12-01 20:44:44 | __main__ | INFO     |   [OK] 'Story_Name' -> object (correct)
+2025-12-01 20:44:44 | __main__ | INFO     |   [OK] 'Type' -> object (correct)
+2025-12-01 20:44:44 | __main__ | INFO     |   [OK] 'Description' -> object (correct)
+2025-12-01 20:44:44 | __main__ | INFO     |   [OK] 'Tasks' -> object (correct)
+2025-12-01 20:44:44 | __main__ | INFO     |   [OK] 'Est_Hours' -> float64 (correct)
+2025-12-01 20:44:44 | __main__ | INFO     |   [OK] 'Resources' -> object (correct)
+2025-12-01 20:44:44 | __main__ | INFO     |   [OK] 'Acceptance_Criteria' -> object (correct)
+2025-12-01 20:44:44 | __main__ | INFO     | Result: PASSED
+
+2025-12-01 20:44:44 | __main__ | INFO     | ======================================================================
+2025-12-01 20:44:44 | __main__ | INFO     | STEP 2: NULL VALUE CHECK
+2025-12-01 20:44:44 | __main__ | INFO     | ======================================================================
+2025-12-01 20:44:44 | __main__ | WARNING  | Found NULL values in 1 column(s):
+2025-12-01 20:44:44 | __main__ | WARNING  |   - 'Sprint': 1 NULLs (14.3% of rows)
+2025-12-01 20:44:44 | __main__ | WARNING  | Result: FAILED (NULLs found)
+
+2025-12-01 20:44:44 | __main__ | INFO     | ======================================================================
+2025-12-01 20:44:44 | __main__ | INFO     | STEP 3: FULL ROW DUPLICATE CHECK
+2025-12-01 20:44:44 | __main__ | INFO     | ======================================================================
+2025-12-01 20:44:44 | __main__ | WARNING  | Found 2 rows that are complete duplicates!
+2025-12-01 20:44:44 | __main__ | WARNING  | Duplicate rows:
+     Sprint                              Sprint_Name       Phase Story_ID                     Story_Name   Type                                                             Description                                                                                                                                                                                                Tasks  Est_Hours                                                                                                                            Resources                                                     Acceptance_Criteria
+0  Sprint 1  Python Fundamentals & Environment Setup  Foundation     S1-1  Development Environment Setup  Setup  Set up local development environment with Python, Docker, Git, VS Code  Install Python 3.9+, pip, virtualenv | Install Docker Desktop | Set up Git and create GitHub account | Install VS Code with Python extensions | Create first GitHub repository for learning journey        3.0  https://www.python.org/downloads/ | https://docs.docker.com/get-docker/ | https://code.visualstudio.com/docs/python/python-tutorial  All tools installed, GitHub repo created with README documenting setup
+6  Sprint 1  Python Fundamentals & Environment Setup  Foundation     S1-1  Development Environment Setup  Setup  Set up local development environment with Python, Docker, Git, VS Code  Install Python 3.9+, pip, virtualenv | Install Docker Desktop | Set up Git and create GitHub account | Install VS Code with Python extensions | Create first GitHub repository for learning journey        3.0  https://www.python.org/downloads/ | https://docs.docker.com/get-docker/ | https://code.visualstudio.com/docs/python/python-tutorial  All tools installed, GitHub repo created with README documenting setup
+2025-12-01 20:44:44 | __main__ | WARNING  | Result: FAILED (duplicates found)
+
+2025-12-01 20:44:44 | __main__ | INFO     | ======================================================================
+2025-12-01 20:44:44 | __main__ | INFO     | STEP 4: PRIMARY KEY DUPLICATE CHECK
+2025-12-01 20:44:44 | __main__ | INFO     | ======================================================================
+2025-12-01 20:44:44 | __main__ | ERROR    | CRITICAL: Found 2 rows with duplicate Story_IDs!
+2025-12-01 20:44:44 | __main__ | ERROR    | Duplicate Story_IDs and their counts:
+2025-12-01 20:44:44 | __main__ | ERROR    |   - 'S1-1' appears 2 times
+2025-12-01 20:44:44 | __main__ | ERROR    | Rows with duplicate Story_IDs:
+     Sprint                              Sprint_Name       Phase Story_ID                     Story_Name   Type                                                             Description                                                                                                                                                                                                Tasks  Est_Hours                                                                                                                            Resources                                                     Acceptance_Criteria
+0  Sprint 1  Python Fundamentals & Environment Setup  Foundation     S1-1  Development Environment Setup  Setup  Set up local development environment with Python, Docker, Git, VS Code  Install Python 3.9+, pip, virtualenv | Install Docker Desktop | Set up Git and create GitHub account | Install VS Code with Python extensions | Create first GitHub repository for learning journey        3.0  https://www.python.org/downloads/ | https://docs.docker.com/get-docker/ | https://code.visualstudio.com/docs/python/python-tutorial  All tools installed, GitHub repo created with README documenting setup
+6  Sprint 1  Python Fundamentals & Environment Setup  Foundation     S1-1  Development Environment Setup  Setup  Set up local development environment with Python, Docker, Git, VS Code  Install Python 3.9+, pip, virtualenv | Install Docker Desktop | Set up Git and create GitHub account | Install VS Code with Python extensions | Create first GitHub repository for learning journey        3.0  https://www.python.org/downloads/ | https://docs.docker.com/get-docker/ | https://code.visualstudio.com/docs/python/python-tutorial  All tools installed, GitHub repo created with README documenting setup
+2025-12-01 20:44:44 | __main__ | ERROR    | Result: FAILED (primary key violation)
+
+2025-12-01 20:44:44 | __main__ | INFO     | ======================================================================
+2025-12-01 20:44:44 | __main__ | INFO     | STEP 5: BUSINESS LOGIC VALIDATION
+2025-12-01 20:44:44 | __main__ | INFO     | ======================================================================
+2025-12-01 20:44:44 | __main__ | INFO     | Checking Est_Hours range...
+2025-12-01 20:44:44 | __main__ | WARNING  |   Found 2 rows with invalid Est_Hours:
+2025-12-01 20:44:44 | __main__ | WARNING  |     Row 1: Story_ID 'S1-2' has Est_Hours = 999.0
+2025-12-01 20:44:44 | __main__ | WARNING  |     Row 3: Story_ID 'S2-1' has Est_Hours = 0.1
+2025-12-01 20:44:44 | __main__ | INFO     | Checking Phase enum values...
+2025-12-01 20:44:44 | __main__ | WARNING  |   Found 1 rows with invalid Phase:
+2025-12-01 20:44:44 | __main__ | WARNING  |     Row 2: Story_ID 'S1-3' has Phase = 'Foundatin'
+2025-12-01 20:44:44 | __main__ | INFO     | Checking Type enum values...
+2025-12-01 20:44:44 | __main__ | WARNING  |   Found 1 rows with invalid Type:
+2025-12-01 20:44:44 | __main__ | WARNING  |     Row 5: Story_ID 'S2-3' has Type = 'Research'
+2025-12-01 20:44:44 | __main__ | WARNING  | Result: FAILED (business logic violations found)
+
+2025-12-01 20:44:44 | __main__ | INFO     | ======================================================================
+2025-12-01 20:44:44 | __main__ | INFO     | STEP 6: DATA QUALITY SCORE (Advanced)
+2025-12-01 20:44:44 | __main__ | INFO     | ======================================================================
+2025-12-01 20:44:44 | __main__ | INFO     | Quality Score: 92.6/100
+2025-12-01 20:44:44 | __main__ | INFO     | Rating: EXCELLENT
+2025-12-01 20:44:44 | __main__ | INFO     | 
+Deduction Breakdown:
+2025-12-01 20:44:44 | __main__ | INFO     |   - NULLs: -0.3 points
+2025-12-01 20:44:44 | __main__ | INFO     |   - Duplicates: -2.1 points
+2025-12-01 20:44:44 | __main__ | INFO     |   - Invalid Phase: -2.1 points
+2025-12-01 20:44:44 | __main__ | INFO     |   - Invalid Hours: -2.9 points
+2025-12-01 20:44:44 | __main__ | INFO     | Result: DATA QUALITY SCORE CALCULATED
+
+2025-12-01 20:44:44 | __main__ | INFO     | ======================================================================
+2025-12-01 20:44:44 | __main__ | INFO     | VALIDATION PIPELINE COMPLETED
+2025-12-01 20:44:44 | __main__ | INFO     | ======================================================================
+2025-12-01 20:44:44 | __main__ | INFO     | Full report saved to: validation_report.log
+
