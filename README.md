@@ -20,3 +20,4 @@ Realised that Andrew's course is bullshit for Databricks. He's good for Cloud le
 Completed Alex the Analyst basic Visual level of Databricks. Will focus on Data bricks Pipelining later via some other YT(04/03/2026)
 Also Completed Alex the Analyst project on ai_classify and ai_parse_document for Intelligent Document Processing for reading data from invoices, purchase orders and receipts. (07/03/2026)
 Not so proud of Alex now that I am seeing other channels and their demonstrations.Completed Python Masterclass from AnshLambda and Databricks FMCG from CodeBasics. Crazy progress.Python is the craziest way to get things done. Journey in Python starts properly from now on (15/03/2026)
+SQL masterclass is finished and I cant believe the amount I learnt about it. Window Functions are now finally MINE. Ansh Lamba GOD.(16/03/2026)
