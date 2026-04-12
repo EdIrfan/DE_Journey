@@ -26,3 +26,4 @@ Apache Spark is complete now. It took a painfully long time to complete because 
 Started DSA and doing some basic to easy problems with C++. Very irritated with DE studies so doing Git course for timepass coz its important too(31/03/2026)
 Basic DSA is nearly complete; going to start basic-intermediate soon; GitHub Course completed. Plans for Azure environment grasping in full picture now. Going to start Pyspark tmrw asap and finish remaining Data Engineering roadmap sessions before doing codebasics type project from Databricks Sample files!!(04/04/2026)
 Took long time to complete PySpark basics to everything. Going forward as planned.(08/04/2026)
+Need to put a halt to CodeBasics project. Ansh has good stuff going forward. Plan: Do all DB and Azure content asap and go interview questions and Ansh Projects.(13/04/2026).
