@@ -1,6 +1,4 @@
-# DE_Journey
-
-### Creating this space to track EVENTS------------
+# DE_Journey--------Creating this space to track EVENTS------------
 
 ## **_EVENT 1_**: Used Sprints to do timepass and think I was doing productive stuff LOL------
 
