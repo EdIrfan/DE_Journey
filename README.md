@@ -64,3 +64,5 @@ I think I am hitting a VERY bad burnout. Will probably take off from studying fo
 Commenced my FIRST ever project that I just didnt think of creating for ONLY databricks. I am planning to give it a VERY high automation as much as I can. All the best to me.(26/04/2026)
 
 Worked on a standard Terraform IAC automated project for orchestrating the Lambdas and created a new Repo called Airline-Delay-Analysis-AWS-Lambda-Ingestion. The best part is GitHub actions that autodeploy everything and keep code always ready on AWS Cloud and have dev and prod accounts set up within it. I have only done work till dev for now. Will do an update when Prod is done.(29/04/2026)
+
+Completed a MASSIVE project in GitHub. IT WAS WORTH IT. Airline Delay Analysis. Lambda + Databricks . (02/05/2026)
