@@ -68,3 +68,8 @@ Worked on a standard Terraform IAC automated project for orchestrating the Lambd
 Completed a MASSIVE project in GitHub. IT WAS WORTH IT. Airline Delay Analysis. Lambda + Databricks. Will continue YT of Ansh again for few days because I am extremely exhausted and really can do with some learning sessions.(02/05/2026)
 
 Had a real break for 2weeks+ time. Death in the family. Mourning time over. Gotta continue again. Will do full revision through notebook and YT resumes. Got a good tutorial of Claude code from Ansh and its minor usecase and created a Medallion in an hour? (CRAZY speed). That news was 2 days back and we are in 20days break now. Not Good. I can feel forgetting core concepts even though I never did revision DURING when I was active but I was in the flow, developing everything, I had no scope of forgetting; but now I feel I have forgot a lot, a HELL lot, and need some REAL revision.(22/05/2026)
+
+
+## **_EVENT 6_**: Awakening-------
+
+Finished AnshLamba Lakeflow Jobs and going to continue with the YT videos till I have sobered down and can continue working for longer days. Will continue with SQL Warehouses next.(12/07/2026)
