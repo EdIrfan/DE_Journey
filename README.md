@@ -73,3 +73,5 @@ Had a real break for 2weeks+ time. Death in the family. Mourning time over. Gott
 ## **_EVENT 6_**: Awakening-------
 
 Finished AnshLamba Lakeflow Jobs and going to continue with the YT videos till I have sobered down and can continue working for longer days. Will continue with SQL Warehouses next.(12/07/2026)
+
+Created a good Resume with AWS + Databricks profile and working towards SQL Warehouse cluster Ansh Lamba Video nearly 55% complete.(12/07/2026)
