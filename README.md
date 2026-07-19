@@ -77,3 +77,5 @@ Finished AnshLamba Lakeflow Jobs and going to continue with the YT videos till I
 Created a good Resume with AWS + Databricks profile and working towards SQL Warehouse cluster Ansh Lamba Video nearly 55% complete.(12/07/2026)
 
 Completed with SQL Clusters and finally going towards DB_Asset Bundles; Applying hard on Linked-In and Naukri. (14/07/2026)
+
+Completed Asset Bundles too and making a wedding card for brother. Reinitiated the recovery of my AWS account. Going back to basics. Initializing a Git repo JUST for learning SQL for the time being and extending to PySpark and Python and go forward with Airflow and DBT after that. (19/07/2026)
