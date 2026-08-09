@@ -81,3 +81,6 @@ Completed with SQL Clusters and finally going towards DB_Asset Bundles; Applying
 Completed Asset Bundles too and making a wedding card for brother. Reinitiated the recovery of my AWS account. Going back to basics. Initializing a Git repo JUST for learning SQL for the time being and extending to PySpark and Python and go forward with Airflow and DBT after that. (19/07/2026)
 
 Asif Bhai Mini Sadhi Project is Live on my AWS Dev server. Did great with Claude code and learnt how LLMs can never catch up to image generation models. RIP money and usage. Starting AWS revision via Ansh Lamba. Also learning SQL side by side. Will try to do Pyspark and Python side by side too because bored of SQL for the time being. Honestly feels like a good experience to help the Family with the Sadhi Card project. 1 week given to loved ones. Back to work Fire horse(29/07/2026)
+
+Asif bhai Sadhi card prod deployment complete. AWS Refresh is done. AWS Glue going on. Met Aadil too. Good shit good life going. Back to work. 1st ever interview scheduled Lets seeeee.(08/08/2026)
+
