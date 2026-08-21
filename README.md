@@ -87,3 +87,5 @@ Asif bhai Sadhi card prod deployment complete. AWS Refresh is done. AWS Glue goi
 Completed AWS Glue and Databricks Lakebase; will not touch airflow,etc BS tools and will focus entirely on AI + RAG + LLM stuff basic AI, before going into advanced python course and then Airflow, DBT, etc. VERY VERY close to PROJECT only area of Ansh; no more/very less learning videos after Project only. Also had an interview and I failed miserably in basic + advanced. I was not up to the mark. It is fine because I loved the experience. Need to focus on Pyspark and SQL more.(12/08/2026)
 
 Did not do anything in PySpark and SQL because I am concept maxi. I am dreaded by AI so doing Gen AI Course from Ansh and looking forward to Claude Code Certification because WHY NOT? Gen AI nearly complete. Will focus on Docker containerization too because CI/CD was pending from long time and take up an AI Interview that was pending.(20/08/2026)
+
+Finished Gen AI; now will focus Docker tomorrow ASAP and do the AI Interview.(21/08/2026)
