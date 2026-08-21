@@ -88,4 +88,4 @@ Completed AWS Glue and Databricks Lakebase; will not touch airflow,etc BS tools 
 
 Did not do anything in PySpark and SQL because I am concept maxi. I am dreaded by AI so doing Gen AI Course from Ansh and looking forward to Claude Code Certification because WHY NOT? Gen AI nearly complete. Will focus on Docker containerization too because CI/CD was pending from long time and take up an AI Interview that was pending.(20/08/2026)
 
-Finished Gen AI; now will focus Docker tomorrow ASAP and do the AI Interview.(21/08/2026)
+Finished Gen AI; now will focus Docker tomorrow ASAP and do the AI Interview. Also revisited the old Airline delay pipeline for CloudFormation understanding(21/08/2026)
