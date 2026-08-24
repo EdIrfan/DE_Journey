@@ -91,3 +91,5 @@ Did not do anything in PySpark and SQL because I am concept maxi. I am dreaded b
 Finished Gen AI; now will focus Docker tomorrow ASAP and do the AI Interview. Also revisited the old Airline delay pipeline for CloudFormation understanding(21/08/2026)
 
 Docker is going well. I learnt a lot for basics, now real API development will also go on in it soon. Gave an AI interview today and felt crazy that I dont know shit about Amazon Aurora and Spark Structured Streaming. Even Spark Batch + variables handling, etc. Even salting technique really needs a HANDS on. Learning more and more about stuff I got to do but I believe I always knew it. Partitioning also included. (22/08/2026)
+
+Docker is finished, I am seeing Deepseek Harness right now. People should be scared because of it not gonna lie. Progress is good and I am doing really fast too. Will see if that AI interview is still there or I can knock it out of my list, once u have knowledge; literally becomes unimportant because u know that there will be ample oppourtunities.(24/08/2026)

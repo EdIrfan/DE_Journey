@@ -1,4 +1,4 @@
-#Pull the base image
+#Pull the base image for Python 3.11.16 slim version
 FROM python:3.11.16-slim
 
 # Set the working directory in the container
@@ -11,8 +11,8 @@ COPY . /app
 RUN pip install --upgrade pip
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Make port 80 available to the world outside this container
-# EXPOSE 80
+# Make port 5000 available to the machine outside this container
+EXPOSE 5000
 
 # Run app.py when the container launches
 CMD ["python", "app.py"]
