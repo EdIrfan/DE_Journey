@@ -69,7 +69,6 @@ Completed a MASSIVE project in GitHub. IT WAS WORTH IT. Airline Delay Analysis. 
 
 Had a real break for 2weeks+ time. Death in the family. Mourning time over. Gotta continue again. Will do full revision through notebook and YT resumes. Got a good tutorial of Claude code from Ansh and its minor usecase and created a Medallion in an hour? (CRAZY speed). That news was 2 days back and we are in 20days break now. Not Good. I can feel forgetting core concepts even though I never did revision DURING when I was active but I was in the flow, developing everything, I had no scope of forgetting; but now I feel I have forgot a lot, a HELL lot, and need some REAL revision.(22/05/2026)
 
-
 ## **_EVENT 6_**: Awakening-------
 
 Finished AnshLamba Lakeflow Jobs and going to continue with the YT videos till I have sobered down and can continue working for longer days. Will continue with SQL Warehouses next.(12/07/2026)
@@ -95,3 +94,5 @@ Docker is going well. I learnt a lot for basics, now real API development will a
 Docker is finished, I am seeing Deepseek Harness right now. People should be scared because of it not gonna lie. Progress is good and I am doing really fast too. Will see if that AI interview is still there or I can knock it out of my list, once u have knowledge; literally becomes unimportant because u know that there will be ample oppourtunities.(24/08/2026)
 
 Doing the AI course created by Claude to see the history of where we are right now in the AI era and how chatbot brains work out things. I will probably finish that before doing other things and its high time to register for Claude official certification by Anthropic. Also an agenda item for tomorrow. Oh btw i finished 2 AI interviews today. Job market is coming live.(25/08/2026)
+
+Fully went open source applications with vscodium and other items. Will begin Claude certification studies tomorrow asap as intended. Will also go to Rajith Marriage so lets hope for the best.(28/08/2026)
