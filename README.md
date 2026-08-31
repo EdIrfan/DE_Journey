@@ -96,3 +96,5 @@ Docker is finished, I am seeing Deepseek Harness right now. People should be sca
 Doing the AI course created by Claude to see the history of where we are right now in the AI era and how chatbot brains work out things. I will probably finish that before doing other things and its high time to register for Claude official certification by Anthropic. Also an agenda item for tomorrow. Oh btw i finished 2 AI interviews today. Job market is coming live.(25/08/2026)
 
 Fully went open source applications with vscodium and other items. Will begin Claude certification studies tomorrow asap as intended. Will also go to Rajith Marriage so lets hope for the best.(28/08/2026)
+
+Plans dont work out as intended. Rajith Marriage i cant go because I got some immediate responsibilities as a husband; same for AI studies. Began today and moving with Ansh courses before Claude. Exam is after 10th so it is fine. Working on LLM course and progressing fine.(31/08/2026)
