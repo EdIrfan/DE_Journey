@@ -98,3 +98,7 @@ Doing the AI course created by Claude to see the history of where we are right n
 Fully went open source applications with vscodium and other items. Will begin Claude certification studies tomorrow asap as intended. Will also go to Rajith Marriage so lets hope for the best.(28/08/2026)
 
 Plans dont work out as intended. Rajith Marriage i cant go because I got some immediate responsibilities as a husband; same for AI studies. Began today and moving with Ansh courses before Claude. Exam is after 10th so it is fine. Working on LLM course and progressing fine.(31/08/2026)
+
+Worked on LLM course and it was nearly same as GenAI course. Downloaded Nimbalyst and moving to Codex from ChatGPT. Great tool Nimbalyst. Going FULL SCALE open source.(04/09/2026)
+
+Came back after wasting few days on Apex Legends. Aadil says the right thing, we need some instagram and games to really CHILL out and stuff. That happened for 2 weeks with me with Apex. Lets take the pace back and finish Claude Course and its shit but ok, and continue Ansh YT journey.(08/09/2026)
