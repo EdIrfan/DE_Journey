@@ -102,3 +102,5 @@ Plans dont work out as intended. Rajith Marriage i cant go because I got some im
 Worked on LLM course and it was nearly same as GenAI course. Downloaded Nimbalyst and moving to Codex from ChatGPT. Great tool Nimbalyst. Going FULL SCALE open source.(04/09/2026)
 
 Came back after wasting few days on Apex Legends. Aadil says the right thing, we need some instagram and games to really CHILL out and stuff. That happened for 2 weeks with me with Apex. Lets take the pace back and finish Claude Course and its shit but ok, and continue Ansh YT journey.(08/09/2026)
+
+Away for 1 week and came back with as a CERTIFIED CLAUDE ASSOCIATE- Foundation level. Will continue with Ansh YT now. I booked developer level certification for 1st October(2 weeks away). So I absoltely gotta kill it with Ansh asap and do other prep too. RAG going. peace out.(15/09/2026)
