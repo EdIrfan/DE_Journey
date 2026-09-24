@@ -1,0 +1,17 @@
+[project]
+name = "custom-sprint7-langchain-tutorial"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "EdIrfan", email = "aliaman351@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = []
+
+[project.scripts]
+custom-sprint7-langchain-tutorial = "custom_sprint7_langchain_tutorial:main"
+
+[build-system]
+requires = ["uv_build>=0.12.17,<0.13.0"]
+build-backend = "uv_build"
