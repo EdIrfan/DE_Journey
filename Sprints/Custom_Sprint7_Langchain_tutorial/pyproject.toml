@@ -7,7 +7,14 @@ authors = [
     { name = "EdIrfan", email = "aliaman351@gmail.com" }
 ]
 requires-python = ">=3.14"
-dependencies = []
+dependencies = [
+    "ddgs>=9.16.0",
+    "dotenv>=0.9.9",
+    "langchain>=1.4.2",
+    "langchain-community>=0.4.2",
+    "langchain-openrouter>=0.2.9",
+    "wikipedia>=1.4.0",
+]
 
 [project.scripts]
 custom-sprint7-langchain-tutorial = "custom_sprint7_langchain_tutorial:main"
@@ -15,3 +22,8 @@ custom-sprint7-langchain-tutorial = "custom_sprint7_langchain_tutorial:main"
 [build-system]
 requires = ["uv_build>=0.12.17,<0.13.0"]
 build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.3.0",
+]
